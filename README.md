@@ -3,7 +3,7 @@ stupid but it works
 ## Regex
 I use regex to detect the state
 
-example :
+Regex example :
 > Alabama|Ala\.|AL 
 > 
 > Washington|WA|Wash\.
