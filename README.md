@@ -5,4 +5,5 @@ I use regex to detect the state
 
 example :
 > Alabama|Ala\.|AL 
+> 
 > Washington|WA|Wash\.
