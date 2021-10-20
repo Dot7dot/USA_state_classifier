@@ -4,4 +4,5 @@ stupid but it works
 I use regex to detect the state
 
 example :
-> Alabama|Ala\.|AL
+> Alabama|Ala\.|AL 
+> Washington|WA|Wash\.
